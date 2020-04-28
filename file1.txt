@@ -1,5 +1,8 @@
-file 1   linea 1
-
-la vaca no solia comer tanto , pero ese dia se paso.
-
-el astronauta salio de paseo.
+<!doctype html5>
+<html>
+	<head>
+	</head>
+	<body>
+		<h1> Esto es el encabezado de este blog </h1>
+	</body>
+</html>
